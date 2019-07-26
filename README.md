@@ -22,6 +22,7 @@ The following list enumerates the boards which Neurona have been tested.
 
 * Arduino Uno
 * Arduino Mega
+* ESP32
 
 If your board is not here, it simply means it was not tested yet. You can also test Neurona in your board and send us a feedback through an issue :)
 
